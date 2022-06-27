@@ -1,7 +1,7 @@
 # askui Example Project
 
  This is an example project which shows the usage of the [askui lib](https://github.com/askui/askui). 
- We use the library to automate: Closing  duplicated Github Issues.
+ We use the library to automate: Closing Duplicated Github Issues.
 
 ## Reproduce
 
@@ -17,7 +17,7 @@ Install all necessary packages:
 npm install
 ```
 
-Execute the 
+Execute the example project:
 
 ```shell
 npm jest --config ./test/jest.config.ts
